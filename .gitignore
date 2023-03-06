@@ -3,3 +3,6 @@ venv/
 # This should be the generated output
 data/out_temperatures.parquet
 
+infra/.terraform.lock.hcl
+infra/.terraform/
+infra/terraform.tfstate*
