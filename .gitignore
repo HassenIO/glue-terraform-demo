@@ -1,2 +1,5 @@
 venv/
 
+# This should be the generated output
+data/out_temperatures.parquet
+
